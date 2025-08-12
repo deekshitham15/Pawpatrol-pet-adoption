@@ -39,9 +39,8 @@ Pet-Adoption-Website/
 ---
 
 ## ⚡ Setup Instructions
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/pet-adoption-website.git
+ **Clone the repository**
+  
 Import the Database
 
 Open phpMyAdmin
@@ -65,5 +64,5 @@ Start Apache & MySQL
 Visit: http://localhost/pet-adoption-website
 
 ---
-**Author:** [Deekshitha M] 
+**Author:** Deekshitha M <br>
 Developed with ❤️ and dedication.
